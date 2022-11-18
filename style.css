@@ -1,0 +1,43 @@
+html,body{
+    height:100;
+}
+body{
+    height: 100%;
+    text-align: center;
+    margin:0;
+    padding:0;
+}
+.day
+{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#gold
+{
+    height: 100%;
+    background: #F9C205;
+    display: none;
+}
+
+#blue
+{
+    height: 100%;
+    background: #5C7C87;
+    display: none;
+}
+
+#grey
+{
+    height: 100%;
+    background: #FF6801;
+    display: none;
+}
+
+h1
+{
+    margin: 0;
+    padding-top: 125px;
+    font-family: 'Passion One', italic;
+    color: white;
+}
