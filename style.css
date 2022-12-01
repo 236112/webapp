@@ -1,5 +1,7 @@
-html,body{
+html,body, div{
     height:100;
+    text-align: center;
+    zoom: 0%;
 }
 body{
     height: 100%;
@@ -12,12 +14,14 @@ body{
     height: 100%;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 #gold
 {
     height: 100%;
     background: #F8B238;
     display: none;
+    text-align: center;
 }
 
 #blue
@@ -25,6 +29,7 @@ body{
     height: 100%;
     background: #5C7C87;
     display: none;
+    text-align: center;
 }
 
 #grey
@@ -32,6 +37,7 @@ body{
     height: 100%;
     background: #FF6801;
     display: none;
+    text-align: center;
 }
 
 h1
